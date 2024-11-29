@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530291194831",
+    "project_id": "rule369-8a1bf",
+    "storage_bucket": "rule369-8a1bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530291194831:android:32754979745b34d86370ba",
+        "android_client_info": {
+          "package_name": "com.example.rule369"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530291194831-aoclnvk4o1ol268cba1sp8hho423uvcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY54d-xsOTEB18J57OkTYQ-UDO6VJPkI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530291194831-aoclnvk4o1ol268cba1sp8hho423uvcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
